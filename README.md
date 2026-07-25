@@ -4,8 +4,9 @@ Ask natural-language questions about your own documents and get answers that
 are **grounded in the source material and cite where they came from** — not
 hallucinated.
 
-🔗 **Live demo:** _add your link here_
-📸 _Add a screenshot of a Q&A with sources here._
+🔗 **Live demo:** [_add your link here_](https://rag-assistant-over-documents.streamlit.app/)
+<img width="1901" height="833" alt="Screenshot 2026-07-26 001904" src="https://github.com/user-attachments/assets/729f9583-7c6c-4a49-9b6d-56ddec80baaf" />
+
 
 ---
 
